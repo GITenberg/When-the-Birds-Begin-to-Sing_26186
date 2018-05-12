@@ -1,0 +1,31 @@
+_repo: When-the-Birds-Begin-to-Sing_26186
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Piffard, Harold
+    deathdate: 1938
+    gutenberg_agent_id: '9844'
+    url: http://www.gutenberg.org/2009/agents/9844
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Graham, Winifred (Matilda Winifred Muriel)
+    alias: Cory, Matilda Winifred Muriel Graham
+    gutenberg_agent_id: '31856'
+    url: http://www.gutenberg.org/2009/agents/31856
+description: ''
+gutenberg_issued: '2008-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26186'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcc 'PR'
+title: When the Birds Begin to Sing
+url: http://www.gutenberg.org/ebooks/26186
